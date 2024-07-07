@@ -1,4 +1,4 @@
-# Airlines_Data_Analytics
+# AirlinesDataAnalytics
 Airlines Data Analytics for Avaition Industry
 
 This repository contains all the folders that is required to be submitted for the smart bridge externship programme on Data Analytics.
